@@ -3,6 +3,46 @@
     background-color: #636363;
 }
 
-.container-background {
-    background-color: black;
+.hassan-page-title {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4rem;
+    font-weight: 600;
+}
+
+.hassan-page-author {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3rem;
+    font-weight: 600;
+    margin-top: -1rem;
+    margin-left: -.53rem;
+}
+
+.hassan-page-desc {
+    background-color: rgb(217, 217, 217, 25%);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+.hassan-xdesctext {
+    margin-top: 1rem;
+    margin-left: -.75rem;
+}
+
+.hassan-first-title {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3.5rem;
+    font-weight: 600;
+}
+
+.hassan-first-review {
+    background-color: rgb(217, 217, 217, 25%);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
 }
