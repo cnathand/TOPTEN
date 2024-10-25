@@ -1,3 +1,30 @@
+.container-margin {
+    margin-top: 20rem;
+}
+
+.home-title {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 5rem;
+    font-weight: 600;
+}
+
+.home-subtitle {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.home-desc {
+    background-color: rgb(217, 217, 217, 25%);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 550;
+    font-size: 1rem;
+}
+
+/* ----------------------------------------------------------------- */
 
 #hassan-body {
     background-color: #636363;
