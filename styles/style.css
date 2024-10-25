@@ -89,14 +89,20 @@
 
 /* ----------------------------------------------------------------- */
 
-#nateh1{
+#nateh1backtop{
     text-align: center;
     color: white;
     font-size: 100px;
 }
 
+.nateh1{
+    text-align: center;
+    color: white;
+    font-size: 75px;
+}
+
 .natep{
     color: white;
     background-color: rgba(0, 0, 0, 0.423);
-    font-size: 30px;
+    font-size: 28px;
 }
