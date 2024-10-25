@@ -32,14 +32,14 @@
     margin-left: -.75rem;
 }
 
-.hassan-first-title {
+.hassan-list-title {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 3.5rem;
     font-weight: 600;
 }
 
-.hassan-first-review {
+.hassan-review {
     background-color: rgb(217, 217, 217, 25%);
     color: white;
     font-family: Arial, Helvetica, sans-serif;
@@ -47,9 +47,46 @@
     font-size: 1rem;
 }
 
-.hassan-first-video {
-    max-width: 50rem;
+.hassan-video {
+    display: flex;
+    position: relative;
+    max-width: 42rem;
+    margin-right: 3rem;
+    border: 5px solid rgb(217, 217, 217, 20%)
 }
+
+.hassan-youtube {
+    padding: 0%;
+}
+
+.car-one {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.car-two {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.col-size {
+    height: 23rem;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0.30rem;
+}
+
+.hassan-break {
+    display: flex;
+    position: relative;
+    color: white;
+    left: 6rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
 /* ----------------------------------------------------------------- */
 
 #nateh1{
