@@ -9,4 +9,4 @@ Welcome to TOPTEN, a website created by Nathan and Hassan.
 **Review**: 
 
 **Figma**: https://www.figma.com/design/CqTPZH66jyDwSc51wjSvHc/TopTenWebsite?node-id=0-1&t=PJZvMOzlE6omTWBn-1
-**Repo**: 
+**Repo**: https://github.com/cnathand/TOPTEN
